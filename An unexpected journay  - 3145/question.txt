@@ -1,0 +1,17 @@
+Bilbo Baggins lived in a hole in the ground in Hobbit Village. One day, his friend Gandalf invites him on an adventure. The adventure was based on stealing a dragon's treasure. Bilbo soon thought it would be madness to steal a dragon, but Gandalf had a retinue of dwarves to help him in this endeavor.
+
+Bilbo then decided to calculate how many days it would take them to reach the Lonely Mountain, where the dragon currently resides. For this calculation it would be necessary to divide the distance in kilometers from Hobbit Village to the Lonely Mountain by the number of people going on the adventure (how did he come up with this metric? I don't know, hobbit things). It is worth mentioning that the number of people is the number of years added to 2 (as Bilbo and Gandalf also go on the journey).
+
+Bilbo is very busy preparing both breakfasts for his guests before they set out on their adventure, and so he asked you, a very skilled programmer hobbit, to write a program to calculate the above order. Gandalf brought him a list with N names of the dwarves who go along on the adventure, and in addition, the distance X to the Lonely Mountain.
+
+Prohibited
+The single line of the entry contains 2 integers, N and
+
+Limits:
+
+1 < N <= 100;
+
+1 < X <= 1000.
+
+Exit
+A real number with two decimal places decreased the number of days to reach the Lonely Mountain.
